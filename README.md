@@ -6,7 +6,7 @@ This repository provides the starter files, practice activities, and folder stru
 
 1. Create your own copy of this repository using GitHub's **Use this template** button, or follow your instructor's directions for obtaining the repository.
 2. Clone your copy to your computer and open the folder in Visual Studio Code.
-3. When prompted, install the recommended extensions: **Five Server** and **Code Spell Checker**.
+3. When prompted, install the recommended extensions: **** and **Code Spell Checker**.
 4. Open the assignment file specified by your instructor and use Five Server to preview it in a browser.
 5. Commit and push your work regularly. Follow the course instructions to publish the required site with GitHub Pages.
 
